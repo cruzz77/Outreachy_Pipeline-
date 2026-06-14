@@ -35,7 +35,7 @@ python pipeline.py stripe.com
 ### 1. Clone & install dependencies
 
 ```bash
-git clone <repo>
+git clone https://github.com/cruzz77/Outreachy_Pipeline-
 cd outreach-pipeline
 pip install -r requirements.txt
 ```
